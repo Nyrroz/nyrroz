@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Who am I ? 
-## I am Rayane Aberkane aka. Nyrroz
+## Rayane Aberkane aka. Nyrroz
 
-Full-Stack Developer and Pentester.
+I am a Full-Stack Developer and Pentester.
 
 💡 I build Flutter apps, Python bots, automations, and I got a "thing" for C++. 
 Also, I dive deep into cybersecurity and pentesting.
