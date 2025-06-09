@@ -32,7 +32,7 @@ I also make shitty games when I got time to spare.
 - 📦 **Tools & Platforms**: Git, Docker, Firebase, MongoDB, Linux (can be my daily OS when I feel like it), Wireshark, Metasploit
 
 ### 😴 I cba to put everything into categories so here are a bunch of keywords:
-- C++, Python, Flutter, HTML/CSS, SFML/SDL, React (though its torture for me), good old JS , Node.js, Express, Computer Vision, Machine Learning, Reverse Engineering etc...
+- C++, Python, Flutter, HTML/CSS, SFML/SDL, ImGui, WDK, React (though its torture for me), good old JS , Node.js, Express, Computer Vision, Machine Learning, Reverse Engineering etc...
   
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
