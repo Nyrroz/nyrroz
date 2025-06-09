@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 🛠️ I build Flutter apps, Python bots, automations, and I got a "thing" for C++. 
 Also, I dive deep into cybersecurity and pentesting.
 I also make shitty games when I got time to spare.
-
 ---
-
 ## 🚀 What I Do
 
 - 🎯 **Frontend**: ...blablabla
