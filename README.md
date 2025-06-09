@@ -33,7 +33,7 @@ I also make shitty games when I got time to spare.
 - 🎮 **Game Hacking**: Memory manipulation, cheat development, anti-cheat bypass, hooking techniques  
 - 📦 **Tools & Platforms**: Git, Docker, Firebase, MongoDB, Linux (can be my daily OS when I feel like it), Wireshark, Metasploit
 
-### 😴 I cba to put everything into frontend or backend categories so here are a bunch of keywords:
+### 😴 I cba to put everything into categories so here are a bunch of keywords:
 - C++, Python, Flutter, HTML/CSS, SFML/SDL, React (though its torture for me), good old JS , Node.js, Express, Computer Vision, Machine Learning, Reverse Engineering etc...
 
 ---
