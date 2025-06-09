@@ -45,7 +45,7 @@ I also make shitty games when I got time to spare.
 |-----------|--------|--------|
 | ⚙️ sfsimeng - SFML Simulation Engine | C++, SFML 3.0 | [View Code](https://github.com/Nyrroz/sfsimeng) |
 | 📱 BlitzCheck - Flutter Mobile App | Flutter, Dart | [Check it out on the App Store](https://apps.apple.com/app/blitzcheck/id6737436335?l=en-GB) |
-| 🛠️ UsefulDesktopTools | Python or C++ (backend), Flutter (frontend) | [View Project](https://github.com/Nyrroz/usefultools) |
+| 🛠️ UsefulDesktopTools | Python or C++ (backend), Flutter (frontend) | [View Project](https://github.com/Nyrroz/UsefulDesktopTool) |
 | 🐷 Simple UserMode Handle Hijacking Cheat CSGO (back then) | C++, DX9-DX11 | [aw](https://aimware.net/)|
 | 🤖 Computer Vision Powered Cheat CS2 | Python | [View Code](https://github.com/Nyrroz/TargetDetectionCS2) |
 | 👁️‍🗨️  Read-Only Kernel Driver Based Cheat CS2 | C++, WDK |  [inuria](https://www.iniuria.us/) |
