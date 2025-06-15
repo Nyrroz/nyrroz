@@ -60,7 +60,7 @@ I also make shitty games when I got time to spare.
 | 📱 BlitzCheck - Flutter Mobile App | Flutter, Dart | [Check it out on the App Store](https://apps.apple.com/app/blitzcheck/id6737436335?l=en-GB) |
 | 🛠️ UsefulDesktopTools | Python or C++ (backend), Flutter (frontend) | [View Project](https://github.com/Nyrroz/UsefulDesktopTools) |
 | 🐷 Simple UserMode Handle Hijacking Cheat CSGO (back in the day, now its just another trash public instant red tf cheat) | C++, DX9-DX11 | [aw](https://aimware.net/)|
-| 🤖 Computer Vision Powered Cheat CS2 | Python | [View Code](https://github.com/Nyrroz/TargetDetectionCS2) |
+| 🤖 Computer Vision & AI Powered Cheat CS2 | Python | [View Code](https://github.com/Nyrroz/TargetDetectionCS2) |
 | 👁️‍🗨️  Read-Only Kernel Driver Based Cheat CS2 | C++, WDK |  [inuria](https://www.iniuria.us/) |
 | 🎮  Trash game | C++, SFML 3.0 | [Don't play this shit]([https://www.iniuria.us/](https://github.com/Nyrroz/myweirdsfmlgame)) |
 | 🔐 Ransomware & RAT Toolkit (work in progress) | Python, Bash, C++ | _Coming Soon_ |
